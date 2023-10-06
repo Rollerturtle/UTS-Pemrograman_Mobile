@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "28521925582",
+    "project_id": "uts-061023",
+    "storage_bucket": "uts-061023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28521925582:android:552c4723a7bdc0e56df99f",
+        "android_client_info": {
+          "package_name": "com.example.manajemenbuku"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALFQHFo_SwfXWx5HnGaZAuIVDVUCbVQTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
